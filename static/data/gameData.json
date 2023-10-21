@@ -1,0 +1,101 @@
+{
+    "cookies": 0,
+    "buildings": {
+        "cursor": {
+            "cost": 15,
+            "income": 0.1,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "grandma": {
+            "cost": 100,
+            "income": 1,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "farm": {
+            "cost": 1100,
+            "income": 8,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "mine": {
+            "cost": 12000,
+            "income": 47,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "factory": {
+            "cost": 130000,
+            "income": 260,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "bank": {
+            "cost": 1400000,
+            "income": 1400,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "temple": {
+            "cost": 20000000,
+            "income": 7800,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "wizardTower": {
+            "cost": 330000000,
+            "income": 44000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "shipment": {
+            "cost": 5100000000,
+            "income": 260000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "alchemyLab": {
+            "cost": 75000000000,
+            "income": 1600000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "portal": {
+            "cost": 1000000000000,
+            "income": 10000000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "timeMachine": {
+            "cost": 14000000000000,
+            "income": 65000000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "antimatterCondenser": {
+            "cost": 170000000000000,
+            "income": 430000000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "prism": {
+            "cost": 2100000000000000,
+            "income": 2900000000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "chancemaker": {
+            "cost": 26000000000000000,
+            "income": 21000000000,
+            "amount": 0,
+            "upgrade_level": 0
+        },
+        "fractalEngine": {
+            "cost": 310000000000000000,
+            "income": 150000000000,
+            "amount": 0,
+            "upgrade_level": 0
+        }
+    }
+}
